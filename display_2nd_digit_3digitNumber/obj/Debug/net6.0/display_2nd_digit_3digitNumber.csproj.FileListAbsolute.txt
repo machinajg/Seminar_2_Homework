@@ -1,0 +1,15 @@
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/bin/Debug/net6.0/display_2nd_digit_3digitNumber
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/bin/Debug/net6.0/display_2nd_digit_3digitNumber.deps.json
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/bin/Debug/net6.0/display_2nd_digit_3digitNumber.runtimeconfig.json
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/bin/Debug/net6.0/display_2nd_digit_3digitNumber.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/bin/Debug/net6.0/display_2nd_digit_3digitNumber.pdb
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/display_2nd_digit_3digitNumber.csproj.AssemblyReference.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/display_2nd_digit_3digitNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/display_2nd_digit_3digitNumber.AssemblyInfoInputs.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/display_2nd_digit_3digitNumber.AssemblyInfo.cs
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/display_2nd_digit_3digitNumber.csproj.CoreCompileInputs.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/display_2nd_digit_3digitNumber.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/refint/display_2nd_digit_3digitNumber.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/display_2nd_digit_3digitNumber.pdb
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/display_2nd_digit_3digitNumber.genruntimeconfig.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_2_Homework/display_2nd_digit_3digitNumber/obj/Debug/net6.0/ref/display_2nd_digit_3digitNumber.dll

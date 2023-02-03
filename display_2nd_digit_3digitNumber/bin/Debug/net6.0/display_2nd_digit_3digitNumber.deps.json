@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "display_2nd_digit_3digitNumber/1.0.0": {
+        "runtime": {
+          "display_2nd_digit_3digitNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "display_2nd_digit_3digitNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
